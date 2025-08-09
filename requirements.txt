@@ -5,6 +5,7 @@ protobuf==6.30.0
 google==3.0.0
 Werkzeug==2.0.3
 httpx
+aiohttp
 flask_cors
 cachetools
 gunicorn
